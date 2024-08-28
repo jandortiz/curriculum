@@ -1,0 +1,40 @@
+body{
+    background-color: #f8f8f8!important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-left: auto;
+    align-content: center;
+}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+    align-self: center;
+}
+
+/* #actividades{
+    list-style-type: disc;
+} */
+
+.social-links, ul, li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social{
+    width: 30px;
+    height: 30px;
+}
+
+.subtitulos{
+    text-align: center;
+}
